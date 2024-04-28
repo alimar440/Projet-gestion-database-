@@ -41,4 +41,4 @@ Le projet utilise les structures de données suivantes :
 
 ## Licence
 
-Ce projet est pour la licence 2 Informatique à l'univercité GASTON BERGER de Saint Louis- consultez le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
+Ce projet est pour la licence 2 Informatique à l'univercité GASTON BERGER de Saint Louis .
